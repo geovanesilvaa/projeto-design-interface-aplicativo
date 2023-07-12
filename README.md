@@ -30,15 +30,9 @@ Este projeto é um design de interface simples criado com o propósito de pratic
 
 3. No diretório raiz do projeto, execute o comando `npm install` ou `yarn install` para instalar as dependências necessárias.
 
-4. Em seguida, execute o comando `expo start` para iniciar o projeto.
+4. Em seguida, execute o comando `npx expo start` para iniciar o projeto.
 
 5. Abra o aplicativo Expo em seu dispositivo móvel ou em um emulador para visualizar o projeto em execução.
-
-## Contribuições e Suporte
-
-Contribuições, sugestões de melhorias e relatórios de problemas são bem-vindos! Sinta-se à vontade para criar problemas no repositório do projeto ou enviar um pull request com suas alterações.
-
-Para obter suporte ou esclarecer dúvidas relacionadas ao projeto, você pode entrar em contato com a equipe de desenvolvimento por meio dos canais de comunicação fornecidos no repositório.
 
 ## Licença
 
